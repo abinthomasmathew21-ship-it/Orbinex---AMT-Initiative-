@@ -1,0 +1,6 @@
+{
+  "name": "ORBINEX — AMT Initiative",
+  "description": "A precision technology and space-focused community initiative under AMT Initiative for space research, satellite tracking, astronomy, and exploration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
